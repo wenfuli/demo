@@ -1,6 +1,12 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
+    {
+      "id": "1",
+      "isAu": true,
+      "auBgImgUrl": "https://pic.imgdb.cn/item/65712eb8c458853aef1f0432.png",
+      "defBgImgUrl": "https://pic.imgdb.cn/item/65712ee1c458853aef1f6c59.png",
+      "videoUrl": ""
+    },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
